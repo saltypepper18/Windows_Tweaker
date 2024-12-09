@@ -1,5 +1,5 @@
-# WinTweakerPRO
-Tweaker for Windows 10-11
+# Windows_TweakerPro
+WinTweaker for Windows 10-11
 
 Hundreds of tasks - one solution
 This is a small-sized but highly powerful program that allows you to fully optimize Windows in just a few clicks.
